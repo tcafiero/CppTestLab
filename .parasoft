@@ -1,0 +1,36 @@
+#Thu Jun 27 19:55:28 CEST 2013
+/prova//com.parasoft.xtest.checkers.api.cpp.options.advanced.options=
+/prova//com.parasoft.xtest.checkers.api.cpp.options.cdt.configuration=CPPTEST_USE_ACTIVE_CONFIG
+/prova//com.parasoft.xtest.checkers.api.cpp.options.compiler.command.c.win32.x86=gcc
+/prova//com.parasoft.xtest.checkers.api.cpp.options.compiler.command.cpp.win32.x86=g++
+/prova//com.parasoft.xtest.checkers.api.cpp.options.compiler.family.win32.x86=gcc_4_0
+/prova//com.parasoft.xtest.checkers.api.cpp.options.compiler.options.win32.x86=${cpptest\:original_options} -DPARASOFT_CPPTEST
+/prova//com.parasoft.xtest.checkers.api.cpp.options.connected.6x.projects=
+/prova//com.parasoft.xtest.checkers.api.cpp.options.dependency.files.paths=${project_loc}/Makefile
+/prova//com.parasoft.xtest.checkers.api.cpp.options.dsp.env.var.mode=ENV_PATCH_PREPEND_MODE
+/prova//com.parasoft.xtest.checkers.api.cpp.options.edg.multibyte.chars.is.source.handling=AUTO
+/prova//com.parasoft.xtest.checkers.api.cpp.options.evc.env.var.mode=ENV_PATCH_PREPEND_MODE
+/prova//com.parasoft.xtest.checkers.api.cpp.options.extractor.id=cdt_extractor_id
+/prova//com.parasoft.xtest.checkers.api.cpp.options.linker.command.win32.x86=g++
+/prova//com.parasoft.xtest.checkers.api.cpp.options.linker.options.win32.x86=${cpptest\:original_options}
+/prova//com.parasoft.xtest.checkers.api.cpp.options.make.command.line=make -i -B CXX\=${CPPTEST_SCAN} CC\=${CPPTEST_SCAN} LD\=${CPPTEST_SCAN}
+/prova//com.parasoft.xtest.checkers.api.cpp.options.make.scan.hash.code.validation=true
+/prova//com.parasoft.xtest.checkers.api.cpp.options.make.working.dir=${project_loc}
+/prova//com.parasoft.xtest.checkers.api.cpp.options.make_always_build=false
+/prova//com.parasoft.xtest.checkers.api.cpp.options.ode_auto_scan_mode=on_changes
+/prova//com.parasoft.xtest.checkers.api.cpp.options.ode_delete_bdf_postaction=false
+/prova//com.parasoft.xtest.checkers.api.cpp.options.ode_incremental_build=false
+/prova//com.parasoft.xtest.checkers.api.cpp.options.ode_options_dir=${project_loc}/cpptestscan.bdf
+/prova//com.parasoft.xtest.checkers.api.cpp.options.preference.store.version=1.1
+/prova//com.parasoft.xtest.checkers.api.cpp.options.run_orig_cmd_for_parallel_proj_bdf=true
+/prova//com.parasoft.xtest.checkers.api.cpp.options.runtime.location=${cpptest\:engine_loc}/runtime
+/prova//com.parasoft.xtest.checkers.api.cpp.options.synchronize_with_project_settings=true
+/prova//com.parasoft.xtest.checkers.api.cpp.options.test.case.location.patterns=*
+/prova//com.parasoft.xtest.checkers.api.cpp.options.test.ware.location=${workspace_loc}/.cpptest/${project_name}
+/prova//com.parasoft.xtest.checkers.api.cpp.options.vc71.configuration=CPPTEST_USE_ACTIVE_CONFIG
+/prova//com.parasoft.xtest.checkers.api.cpp.options.working.dir=${project_loc}
+/prova/src/prova.c//com.parasoft.xtest.checkers.api.cpp.options.compiler.options.win32.x86=${cpptest\:original_options} -DPARASOFT_CPPTEST
+/prova/src/prova.c//com.parasoft.xtest.checkers.api.cpp.options.file.specific.compiler.opts=false
+/prova/src/prova.c//com.parasoft.xtest.checkers.api.cpp.options.working.dir=${project_loc}
+/prova/src/prova.c//com.parasoft.xtest.execution.api.cpp.options.instrument.file=true
+project.path=/prova
