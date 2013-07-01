@@ -34,6 +34,7 @@ int generic(int op, int a, int b)
 	case 1: return sum(a,b);
 	case 2: return sub(a,b);
 	case 3: return mul(a,b);
+	case 4: return inc(a);
 	}
 	return 0;
 }
